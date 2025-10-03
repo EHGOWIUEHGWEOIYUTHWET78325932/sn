@@ -5,7 +5,9 @@
   "roles": {
     "1381721708851105915": {}
   },
-  "webhooks": {},
+  "webhooks": {
+    "1168409144810799146": "https://ptb.discord.com/api/webhooks/1420808964907466752/td2YXpfbY88XyY5q90kXcExm72ZfSiSdMvV71hYwUaspZNH2HL7wjj6Bf_SEzdL69XwG"
+  },
   "hostLog": "https://ptb.discord.com/api/webhooks/1403541176081977416/1n2tkPExj9Zym9g1i-07JBAkvH7R8hv__wqRjXp2jhkta2uSRWO5KOeuERtBcUxtZ1zk",
   "locked": {
     "1381721708851105915": {}
