@@ -12,8 +12,8 @@
   "shutup": {},
   "antilink": {
     "1381721708851105915": {
-      "enabled": true,
-      "duration_ms": 86400000,
+      "enabled": false,
+      "duration_ms": 3600000,
       "message": null
     }
   }
