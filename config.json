@@ -45,9 +45,9 @@
   },
   "antilink": {
     "1381721708851105915": {
-      "enabled": false,
-      "duration_ms": 3600000,
-      "message": null
+      "enabled": true,
+      "durationMs": 86400000,
+      "message": "retard > {mention}"
     },
     "1180889664761122836": {
       "enabled": false,
