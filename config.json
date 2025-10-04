@@ -35,5 +35,168 @@
       "durationMs": 86400000,
       "message": null
     }
+  },
+  "backups": {
+    "1423953002380918815": {
+      "4/10": {
+        "timestamp": "2025-10-04T08:43:13.879Z",
+        "channels": [
+          {
+            "id": "1423953002871656519",
+            "type": 4,
+            "name": "Text channels",
+            "position": 0,
+            "parent_id": null,
+            "overwrites": []
+          },
+          {
+            "id": "1423953002871656520",
+            "type": 4,
+            "name": "Voice channels",
+            "position": 1,
+            "parent_id": null,
+            "overwrites": []
+          },
+          {
+            "id": "1423953002871656521",
+            "type": 0,
+            "name": "general",
+            "position": 0,
+            "parent_id": "1423953002871656519",
+            "overwrites": []
+          },
+          {
+            "id": "1423953002871656522",
+            "type": 2,
+            "name": "General",
+            "position": 0,
+            "parent_id": "1423953002871656520",
+            "overwrites": []
+          },
+          {
+            "id": "1423953020953034813",
+            "type": 0,
+            "name": "asgasg",
+            "position": 1,
+            "parent_id": "1423953002871656519",
+            "overwrites": []
+          }
+        ],
+        "roles": [
+          {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "0",
+            "position": 15
+          },
+          {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "0",
+            "position": 14
+          },
+          {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "0",
+            "position": 13
+          },
+          {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "0",
+            "position": 12
+          },
+          {
+            "name": "admin",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "8",
+            "position": 11
+          },
+          {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "0",
+            "position": 10
+          },
+          {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "0",
+            "position": 9
+          },
+          {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "0",
+            "position": 8
+          },
+          {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "0",
+            "position": 7
+          },
+          {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "0",
+            "position": 6
+          },
+          {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "0",
+            "position": 5
+          },
+          {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "0",
+            "position": 4
+          },
+          {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "0",
+            "position": 3
+          },
+          {
+            "name": "new role",
+            "color": "#000000",
+            "hoist": false,
+            "mentionable": false,
+            "permissions": "0",
+            "position": 2
+          }
+        ]
+      }
+    }
   }
 }
