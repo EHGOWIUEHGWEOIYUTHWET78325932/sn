@@ -5,7 +5,8 @@
     "1168409144810799146": "https://ptb.discord.com/api/webhooks/1420808964907466752/td2YXpfbY88XyY5q90kXcExm72ZfSiSdMvV71hYwUaspZNH2HL7wjj6Bf_SEzdL69XwG",
     "1383536282470453380": "https://ptb.discord.com/api/webhooks/1423486132682883194/6AjA0A839tSquDzed7a2NEMR9jiVLPJtSN-8vLfPUTSYeVvgTtlxQOciSBdBsO5aSMjO",
     "1312123102641131562": "https://ptb.discord.com/api/webhooks/1423484758926561321/fpP7QBiuvY4uMzTNcaaytjUhVknS8FkqYmjJ5fu8AnzCPgX8x55TxAO8CyYZbfDK5TzG",
-    "1125379742191849503": "https://ptb.discord.com/api/webhooks/1423898400960679976/7LJsTdje9YbZJ--6kHnncG83zja-NxSStbv-nR6bd1ioJdvPB_e_rowbGlDsgKW2HpSw"
+    "1125379742191849503": "https://ptb.discord.com/api/webhooks/1423898400960679976/7LJsTdje9YbZJ--6kHnncG83zja-NxSStbv-nR6bd1ioJdvPB_e_rowbGlDsgKW2HpSw",
+    "1418229747250368603": "https://ptb.discord.com/api/webhooks/1400621515506192424/hAUQahrfyqwigjhqZ2trzLmO1Ii6lSqui075MTHnanRft-f5MYs_vwFhvgGF_"
   },
   "host_log": "https://ptb.discord.com/api/webhooks/1403541176081977416/1n2tkPExj9Zym9g1i-07JBAkvH7R8hv__wqRjXp2jhkta2uSRWO5KOeuERtBcUxtZ1zk",
   "locked": {
@@ -53,7 +54,9 @@
     }
   },
   "shutup": {
-    "1180889664761122836": []
+    "1180889664761122836": [
+      "1160840256384421920"
+    ]
   },
   "antilink": {
     "1381721708851105915": {
