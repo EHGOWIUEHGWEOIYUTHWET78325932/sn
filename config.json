@@ -35,8 +35,8 @@
       "message": null
     },
     "1180889664761122836": {
-      "enabled": false,
-      "duration_ms": 3600000,
+      "enabled": true,
+      "durationMs": 86400000,
       "message": null
     }
   }
