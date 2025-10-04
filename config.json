@@ -10,5 +10,11 @@
     "1381721708851105915": {}
   },
   "shutup": {},
-  "antilink": {}
+  "antilink": {
+    "1381721708851105915": {
+      "enabled": true,
+      "duration_ms": 86400000,
+      "message": null
+    }
+  }
 }
