@@ -62,9 +62,9 @@
     },
     "1180889664761122836": {
       "enabled": true,
-      "durationMs": 604800000,
-      "message": "lets not get scammed again {mention} yeah?",
-      "partial": false
+      "durationMs": 86400000,
+      "message": null,
+      "partial": true
     }
   },
   "locked_roles": {
