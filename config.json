@@ -1225,6 +1225,79 @@
               "name": "@everyone"
             }
           ]
+        },
+        {
+          "timestamp": "2025-10-15T11:38:22.381Z",
+          "roles": [
+            {
+              "id": "1180893461369585805",
+              "name": "Member"
+            },
+            {
+              "id": "1180897732760711268",
+              "name": "[Stand-Helper]"
+            },
+            {
+              "id": "1180897736661418075",
+              "name": "💸〢premium"
+            },
+            {
+              "id": "1181147200483491840",
+              "name": "📢〢Annc"
+            },
+            {
+              "id": "1182729386538053634",
+              "name": "Booster :3"
+            },
+            {
+              "id": "1184037221804802099",
+              "name": "-"
+            },
+            {
+              "id": "1243914086299865139",
+              "name": "Shield bypass premium"
+            },
+            {
+              "id": "1246776612222144603",
+              "name": "Stando premium [whitelist access]"
+            },
+            {
+              "id": "1246924778011365386",
+              "name": "Stando shield bypass [whitelist access]"
+            },
+            {
+              "id": "1265752677040652308",
+              "name": "Owner"
+            },
+            {
+              "id": "1267999670949384192",
+              "name": "/ Timeout Perms"
+            },
+            {
+              "id": "1290210259520061511",
+              "name": "Stando Exclusive [whitelist access]"
+            },
+            {
+              "id": "1295378600320827432",
+              "name": "/ Pic Perms"
+            },
+            {
+              "id": "1377681643648581673",
+              "name": "/ Soundb Perms"
+            },
+            {
+              "id": "1410177794180382821",
+              "name": "global announcement"
+            },
+            {
+              "id": "1423879915241078856",
+              "name": "/ Msg Perms"
+            },
+            {
+              "id": "1180889664761122836",
+              "name": "@everyone"
+            }
+          ]
         }
       ],
       "1181297360974925887": [
