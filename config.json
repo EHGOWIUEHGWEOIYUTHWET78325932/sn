@@ -53,10 +53,10 @@
       "message": null
     },
     "1180889664761122836": {
-      "enabled": true,
-      "durationMs": 86400000,
+      "enabled": false,
+      "durationMs": 3600000,
       "message": null,
-      "partial": true
+      "partial": false
     }
   },
   "locked_roles": {
