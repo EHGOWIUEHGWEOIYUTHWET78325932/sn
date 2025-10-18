@@ -53,9 +53,9 @@
       "message": null
     },
     "1180889664761122836": {
-      "enabled": false,
-      "durationMs": 3600000,
-      "message": null,
+      "enabled": true,
+      "durationMs": 86400000,
+      "message": "this monkey {mention} got scammed 😔",
       "partial": false
     }
   },
