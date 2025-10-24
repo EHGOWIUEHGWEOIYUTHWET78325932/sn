@@ -946,6 +946,59 @@
               "name": "@everyone"
             }
           ]
+        },
+        {
+          "timestamp": "2025-10-24T16:03:18.593Z",
+          "roles": [
+            {
+              "id": "1180893461369585805",
+              "name": "Member"
+            },
+            {
+              "id": "1180897736661418075",
+              "name": "💸〢premium"
+            },
+            {
+              "id": "1184037221804802099",
+              "name": "-"
+            },
+            {
+              "id": "1243914086299865139",
+              "name": "Shield bypass premium"
+            },
+            {
+              "id": "1246776612222144603",
+              "name": "Stando premium [whitelist access]"
+            },
+            {
+              "id": "1246924778011365386",
+              "name": "Stando shield bypass [whitelist access]"
+            },
+            {
+              "id": "1290210259520061511",
+              "name": "Stando Exclusive [whitelist access]"
+            },
+            {
+              "id": "1331605773717082253",
+              "name": "Makima"
+            },
+            {
+              "id": "1345623531244884039",
+              "name": "Special person"
+            },
+            {
+              "id": "1400794158226210886",
+              "name": "Seth"
+            },
+            {
+              "id": "1410177794180382821",
+              "name": "global announcement"
+            },
+            {
+              "id": "1180889664761122836",
+              "name": "@everyone"
+            }
+          ]
         }
       ],
       "1139766091321724988": [
